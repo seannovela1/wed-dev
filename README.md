@@ -3,6 +3,6 @@
   console.log("hello world");
 <script>
 
-<script src="js/script/.js"></script>
+<script> src="js/script/.js"></script>
 
-<button onclick="alert(boom!);">do not press!</button>
+<button></button> onclick="alert(boom!);">do not press!</button>
