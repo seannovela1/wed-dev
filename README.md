@@ -1,5 +1,4 @@
 # wed-dev
-Author-Sean Novela
 <script>
   console.log("hello world");
 <script>
