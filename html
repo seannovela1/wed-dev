@@ -1,3 +1,22 @@
-<script> console.log("hello world"); </script> <script src="js/script.js"></script>
+html
+<button onclick="alert('Hello, world!')">Click me</button>
+```
 
-<button onclick="alert("boom!");Do not press!
+html
+<script>
+    function showMessage() {
+        alert('Hello, world!');
+    }
+</script>
+<button onclick="showMessage()">Click me</button>
+
+``html
+<script src="script.js"></script>
+<button onclick="showMessage()">Click me</button>
+```
+`script.js` file:
+```javascript
+function showMessage() {
+    alert('Hello, world!');
+}
+
